@@ -1,0 +1,5 @@
+# Ignore specific files
+LICENSE
+README.md
+yt.py
+install.sh
